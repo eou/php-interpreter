@@ -3,6 +3,8 @@ A PHP interpreter written by TypeScript based on PHP 7.
 
 ---
 
+**🚚 This repository has already been migrated to [tharzen/php-interpreter](https://github.com/tharzen/php-interpreter) permanently.**
+
 ## Description
 
 ![Interpreter Architecture](https://i.imgur.com/IyAW0Ht.png)
