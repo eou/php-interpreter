@@ -8,7 +8,7 @@ Other dependencies are all for development.
 
 ## Usage
 
-Please clone this repository using `git clone https://github.com/tharzen/php-interpreter.git`. And then run `git submodule init` and `git submodule update` for the php-parser submodule.
+Please clone this repository using `git clone https://github.com/eou/php-interpreter.git`. And then run `git submodule init` and `git submodule update` for the php-parser submodule.
 
 Please install `ts-node` for directly running typescript files. The install command is `npm install -g ts-node`.
 
