@@ -7,7 +7,7 @@ A PHP interpreter written by TypeScript based on PHP 7.
 
 ## Description
 
-![Interpreter Architecture](https://i.imgur.com/IyAW0Ht.png)
+![Interpreter Architecture](https://i.imgur.com/mMz54GP.png)
 
 This interpreter is a abstract syntax tree interpreter which reads PHP source code and return results after executing it.
 ```typescript
